@@ -24,14 +24,14 @@
 <div>
 
 <p>
-<img align="left" width='420' src="https://github-readme-stats.vercel.app/api?username=hamzashaikhcan&theme=dark&show_icons=true" />
+<img align="center" width='420' src="https://github-readme-stats.vercel.app/api?username=hamzashaikhcan&theme=dark&show_icons=true" />
 </p>
 
-<p>&nbsp;
-<img align="right" width='420' src="https://github-readme-streak-stats.herokuapp.com/?user=hamzashaikhcan&theme=dark&date_format=[Y.]M.j" />
+<p>
+<img align="center" width='420' src="https://github-readme-streak-stats.herokuapp.com/?user=hamzashaikhcan&theme=dark&date_format=[Y.]M.j" />
 </p>
 
-<p>&nbsp;
+<p>
 <img align="center" width='420' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzashaikhcan&layout=compact&theme=dark"/>
 </p>
 
