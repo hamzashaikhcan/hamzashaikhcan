@@ -31,6 +31,10 @@
 <p>
 <img align="center" width='420' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzashaikhcan&layout=compact&theme=dark"/>
 </p>
+ 
+ <p>
+  <img align="center" width='420' src="https://github-readme-stats.vercel.app/api/wakatime?username=hamzashaikhcan&theme=dark" />
+ </p>
 
 
 
